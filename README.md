@@ -1,17 +1,19 @@
 **FFT Watch Face**
 
-I love Final Fantasy Tactics!  I have created an FFT-themed watch face using Watch Face Studio, compatible with various Wear OS watches like the Galaxy and Pixel watches.  It features:
+I love Final Fantasy Tactics and have created an FFT-themed watch face using Watch Face Studio, compatible with various Wear OS watches like the Galaxy and Pixel watches.  It features:
 
--	About 50 total characters plus variations and all pallets+genders for generics, totaling over 200 character sprite sets
+-	About 50 total characters plus variations and all pallets+genders for generics, totaling over 200 character sprites
 -	15 backgrounds and 4 edge fade options
 -	HP/MP/CT become Steps/Charge/Seconds with bars that fill and empty
 -	Character goes critical for low battery & singing for notifications
 -	Includes AOD support 
--	Watch Face Studio project files
+-	Watch Face Studio project files available
+
 
 **How to Install**
 
-Download the .apk file(s) and use ADB to install them - more detailed guides are available online, some basic instructions are included below.  Watch Face Studio only allows a limited number of options per item (eg characters) so there are 23 individual watch face sets with 10 character sprites in each set.  
+Download the .apk file(s) you want to use and install to your watch using ADB - more detailed guides are available online, some basic instructions are below.  Watch Face Studio only allows a limited number of options per item (eg characters) so there are 23 individual sets with 10 character sprites in each set.  
+
 
 **Set up ADB and Pair**
 
@@ -36,15 +38,16 @@ Needed if you do not already have ADB set up or have it paired with your watch.
 
         adb pair [ip:port shown on watch]
 
+
 **Install Watch Faces**
 
-Download the .apk file for the character set(s) you want to your PC and install them using ADB.
+Download the .apk file for the character set(s) you want to your PC and install using ADB.
 
 1.	Connect watch to same network as PC, enable Wireless Debugging on watch
 2.	Open cmd window on PC and connect to watch:
    
         adb connect [IP address:port displayed in Wireless Debugging on watch]
-4.	Install .apk files on watch:
+4.	Install .apk on watch:
    
         adb install c:\path\to\watchface.apk
   	
