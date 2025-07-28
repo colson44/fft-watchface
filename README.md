@@ -1,3 +1,6 @@
+
+<img width="762" height="159" alt="FFT_WF_Banner" src="https://github.com/user-attachments/assets/b7ee64cc-2064-4c07-bcdc-36f09b913f2b" />
+
 **FFT Watch Face**
 
 I love Final Fantasy Tactics and have created an FFT-themed watch face using Watch Face Studio, compatible with various Wear OS watches like the Galaxy and Pixel watches.  It features:
