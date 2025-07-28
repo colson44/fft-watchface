@@ -11,7 +11,7 @@ I love Final Fantasy Tactics!  I have created an FFT-themed watch face using Wat
 
 **How to Install**
 
-The program used to make these watch faces only allows a limited number of options per item (eg characters) so there are 23 individual watch face files with 10 character sprites in each.  Download the .apk file(s) and use ADB to install them- more detailed guides are available online, some basic instructions are included below.
+Download the .apk file(s) and use ADB to install them - more detailed guides are available online, some basic instructions are included below.  Watch Face Studio only allows a limited number of options per item (eg characters) so there are 23 individual watch face sets with 10 character sprites in each set.  
 
 **Set up ADB and Pair**
 
