@@ -3,10 +3,10 @@
 
 **FFT Watch Face**
 
-I love Final Fantasy Tactics! Here are FFT-themed watch faces created using Watch Face Studio, compatible with various Wear OS watches like the Galaxy and Pixel watches (sorry Apple Watches).  Watch Face Studio only allows a limited number of options per item (like characters) so there are 23 watch faces with 10 characters each.  Features include:
+I love Final Fantasy Tactics! Here are some FFT-themed watch faces created using Watch Face Studio, compatible with various Wear OS watches like the Galaxy and Pixel watches (sorry Apple Watches).  Watch Face Studio only allows a limited number of options per item (like characters) so there are 23 watch faces with 10 characters each.  Features include:
 
--	About 50 unique characters + all variations & pallets+genders for generics, totaling over 200 character sprite sets
--	15 backgrounds and 4 edge fade options
+-	Most story characters + all pallets+genders for generic units, over 200 total character sprite sets
+-	15 backgrounds (several animated) and 4 edge fade options
 -	HP/MP/CT become Steps/Charge/Seconds with bars that fill and empty
 -	Character kneels for low battery & sings for notifications
 -	Includes AOD support 
