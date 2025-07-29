@@ -23,22 +23,16 @@ Download the .apk file(s) you want to use to your PC and install to your watch u
 Needed if you do not already have ADB set up or have it paired with your watch. 
 
 1.	Install ADB (consider ‘ADB & Fastboot++’ found on Git Hub)
-2.	Enable developer options on watch:
-
-    a.	Settings > About Watch > Software Information
-  	
+2.	Enable developer options on watch:<br>
+    a.	Settings > About Watch > Software Information<br>
   	b.	Tap ‘Software Version’ repeatedly until notification appears
-4.	Enable ADB and Wireless Debugging on watch:
-
-    a.	Settings > Developer Options
-  	
+4.	Enable ADB and Wireless Debugging on watch:<br>
+    a.	Settings > Developer Options<br>
     b.	Enable ADB debugging and Wireless Debugging
-6.	Pair watch and computer:
-
-    a.	(on watch) Settings > Developer Options > Wireless Debugging > Pair New Device
-  	
+6.	Pair watch and computer:<br>
+    a.	(on watch) Settings > Developer Options > Wireless Debugging > Pair New Device<br>
     b.	(on PC) open a cmd window and use pair with watch using cmd:
-
+    
         adb pair [ip:port shown on watch]
 
 
@@ -50,11 +44,9 @@ Follow the steps below once ADB is installed and paired with your watch.
 2.	Open cmd window on PC and connect to watch:
    
         adb connect [IP address:port displayed in Wireless Debugging on watch]
-4.	Install .apk on watch:
+4.	Install .apk on watch (quote path if it contains spaces):
    
         adb install c:\path\to\watchface.apk
-  	
-    (quote path if it contains spaces)
 
 
 Installed watch faces will show up in the Downloaded section on your watch/Wear app.
