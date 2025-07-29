@@ -27,7 +27,7 @@ Needed if you do not already have ADB set up or have it paired with your watch.
 
     a.	Settings > About Watch > Software Information
   	
-  	b.	Top ‘Software Version’ repeatedly until notification appears
+  	b.	Tap ‘Software Version’ repeatedly until notification appears
 4.	Enable ADB and Wireless Debugging on watch:
 
     a.	Settings > Developer Options
