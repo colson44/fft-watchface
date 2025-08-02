@@ -15,7 +15,7 @@ I love Final Fantasy Tactics! Here are some FFT-themed watch faces created using
 
 **How to Install**
 
-Download the .apk file(s) from the desired character folder(s) to your PC and install to your watch using ADB - more detailed guides are available online, some basic instructions are below.   
+These are not on the Play or other stores for obvious reasons, so you will need to install the watch faces manually - this usually involves using ADB.  The general idea is to download the .apk file(s) for the character set(s) you want and install on your watch using ADB - more detailed guides are available online, some basic instructions are below for accomplishing this on PC.   
 
 
 **Set up ADB and Pair**
