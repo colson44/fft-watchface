@@ -13,16 +13,45 @@ I love Final Fantasy Tactics! Here are some FFT-themed watch faces created using
 -	Watch Face Studio project files available
 
 
-**How to Install**
+**How to Use**
 
-These are not on the Play or other stores for obvious reasons, so you will need to install the watch faces manually - this usually involves using ADB.  The general idea is to download the .apk file(s) for the character set(s) you want and install on your watch using ADB - more detailed guides are available online, some basic instructions are below for accomplishing this on PC.   
+These are not on the Play or other stores for obvious reasons, so you will need to install the watch faces manually - this usually involves using ADB.  The general idea is to download the .apk file(s) for the character set(s) you want and install on your watch using ADB - more detailed guides are available online, but I've added some basic instructions under the previews below that should cover the essentials for the technical-minded. 
+
+**Previews**
+
+https://github.com/user-attachments/assets/469c0dd5-d1f9-4a61-9266-8d25347c0e33
 
 
-**Set up ADB and Pair**
+Step goal met indicator (top-right):
 
-Needed if you do not already have ADB set up or have it paired with your watch. 
+https://github.com/user-attachments/assets/6aef7f0a-a112-4271-88af-abcd06ebf683
 
-1.	Install ADB (consider ‘ADB & Fastboot++’ found on Git Hub)
+
+Singing notifications:
+
+https://github.com/user-attachments/assets/bc791145-bff3-4b55-906f-a73545977a70
+
+
+Battery critical + edge fade options:
+
+https://github.com/user-attachments/assets/a99f14ed-a1cc-49c5-aa7d-31407f9ea2cf
+
+
+Generic character pallets and genders:
+
+https://github.com/user-attachments/assets/5723e13a-cdf9-43cc-a4f6-bebb27378f86
+
+
+AOD display option:
+
+https://github.com/user-attachments/assets/c0569ef0-0c63-4d4d-92fb-f9afa06a1104
+
+
+**Install - Set up ADB and Pair**
+
+This is needed if you do not already have ADB set up or have it paired with your watch. 
+
+1.	Install ADB (consider ‘ADB & Fastboot++’ for PC found on Git Hub).
 2.	Enable developer options on watch:<br>
     a.	Settings > About Watch > Software Information<br>
   	b.	Tap ‘Software Version’ repeatedly until notification appears
@@ -50,34 +79,4 @@ Follow the steps below once ADB is installed and paired with your watch.
 
 
 Installed watch faces will show up in the Downloaded section on your watch/Wear app.
-
-
-Previews from Watch Face Studio - performance and appearance are signficantly better on-watch 
-
-https://github.com/user-attachments/assets/469c0dd5-d1f9-4a61-9266-8d25347c0e33
-
-
-Step goal met indicator (top-right)
-
-https://github.com/user-attachments/assets/6aef7f0a-a112-4271-88af-abcd06ebf683
-
-
-Singing notifications
-
-https://github.com/user-attachments/assets/bc791145-bff3-4b55-906f-a73545977a70
-
-
-Battery critical + edge fade options
-
-https://github.com/user-attachments/assets/a99f14ed-a1cc-49c5-aa7d-31407f9ea2cf
-
-
-Generic character pallets and genders
-
-https://github.com/user-attachments/assets/5723e13a-cdf9-43cc-a4f6-bebb27378f86
-
-
-AOD display option
-
-https://github.com/user-attachments/assets/c0569ef0-0c63-4d4d-92fb-f9afa06a1104
 
